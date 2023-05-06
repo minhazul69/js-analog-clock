@@ -32,4 +32,5 @@ setInterval(() => {
   hour.innerHTML = h;
   minutes.innerHTML = m;
   seconds.innerHTML = s;
+  ampm.innerHTML = am;
 });

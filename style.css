@@ -156,3 +156,16 @@ body {
     opacity: 0;
   }
 }
+.footer {
+  text-align: center;
+  padding: 15px 0;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.61);
+  color: #fff;
+  margin-top: 200px;
+  bottom: 0;
+  position: fixed;
+  font-size: 1.3em;
+}
